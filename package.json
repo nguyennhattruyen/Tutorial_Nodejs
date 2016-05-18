@@ -4,7 +4,7 @@
   "description": "t��utorial nodejs",
   "main": "index.js",
   "scripts": {
-    "start":"nodemon server.js"
+    "start": "nodemon server.js"
   },
   "repository": {
     "type": "git",
@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/nguyennhattruyen/Tutorial_Nodejs#readme",
   "dependencies": {
+    "ect": "^0.5.9",
     "express": "^4.13.4"
   }
 }
